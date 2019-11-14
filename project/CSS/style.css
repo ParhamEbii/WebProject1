@@ -1,0 +1,115 @@
+body{
+  background-color:#ece7e7;
+  }
+  .loginmain {
+    width: 60%;
+    height: 60%;
+    margin-top: 10%;
+    margin-right: 20%;
+    position: absolute;
+    box-shadow: 5px 10px 5px #888888;
+    background-color: white;}
+
+
+.login{
+  width: 50%;
+  background-color: #f7f7f7;
+  height: 100%;
+  position: absolute;
+
+}
+.signin{
+
+  width: 50%;
+  background-color: #f7f7f7;
+  height: 100%;
+  margin-right: 50%;
+
+}
+#pass_form {
+    margin-top: 5%;
+    width: 80%;
+    border-right: none;
+  border-left: none;
+  border-top: none;
+  text-align:center;
+    background-color: transparent;
+  }
+#login-title{
+
+  text-align: center;
+}
+text.loginText {
+    text-align: center;
+
+}
+#email_form{
+  border-right: none;
+border-left: none;
+border-top: none;
+text-align:center;
+    width: 80%;
+    background-color: transparent;
+}
+#loginForm{
+    margin-top: 20%;
+}
+
+a.forgot {
+
+    padding-right: 10%;
+    margin-top: 5%;
+    font-size: small;
+    position: absolute;
+    text-decoration-line: none;
+    color: #77b5de;
+}
+
+.loginbtn {
+    width: 20%;
+    height: 10%;
+    background-color: #d26a6a;
+    margin-top: 26%;
+    margin-right: 70%;
+    border: none;
+    border-radius: 10%;
+}
+
+.signinbtn {
+    width: 20%;
+    height: 10%;
+    background-color: #d26a6a;
+    margin-top: 8%;
+    margin-right: 70%;
+    border: none;
+    border-radius: 10%;
+}
+
+.vl {
+    border-left: 6px solid #c4c2c3;
+    height: 80%;
+    margin-left: 50%;
+    margin-top: 5%;
+    position: absolute;
+}
+
+.selectbar{
+  border-right: none;
+border-left: none;
+border-top: none;
+text-align:center;
+    width: 80%;
+    background-color: transparent;
+    margin-top: 5%;
+}
+
+#email_form_s{
+  border-right: none;
+border-left: none;
+border-top: none;
+text-align:center;
+    width: 80%;
+    background-color: transparent;
+    margin-top: 5%;
+
+}
