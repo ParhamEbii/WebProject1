@@ -1,62 +1,69 @@
 body{
   background-color:#ece7e7;
-  }
-  .loginmain {
+}
+
+.loginmain {
     width: 60%;
     height: 60%;
     margin-top: 10%;
     margin-right: 20%;
     position: absolute;
     box-shadow: 5px 10px 5px #888888;
-    background-color: white;}
-
+    border: 0px black;
+    border-radius: 20px 20px 20px 0px; 
+    background-color: white;
+}
 
 .login{
-  width: 50%;
-  background-color: #f7f7f7;
-  height: 100%;
-  position: absolute;
-
+    width: 50%;
+    background-color: #f7f7f7;
+    height: 100%;
+    position: absolute;
+    border: 0px black;
+    border-radius: 0px 20px 20px 0px; 
 }
+
 .signin{
-
-  width: 50%;
-  background-color: #f7f7f7;
-  height: 100%;
-  margin-right: 50%;
-
+    width: 50%;
+    background-color: #f7f7f7;
+    height: 100%;
+    margin-right: 50%;
+    border: 0px black;
+    border-radius: 20px 0px 0px 0px; 
+    position: absolute;
 }
+
 #pass_form {
     margin-top: 5%;
     width: 80%;
     border-right: none;
-  border-left: none;
-  border-top: none;
-  text-align:center;
+    border-left: none;
+    border-top: none;
+    text-align:center;
     background-color: transparent;
-  }
-#login-title{
-
-  text-align: center;
 }
+
+#login-title{
+    text-align: center;
+}
+
 text.loginText {
     text-align: center;
-
 }
 #email_form{
-  border-right: none;
-border-left: none;
-border-top: none;
-text-align:center;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    text-align:center;
     width: 80%;
     background-color: transparent;
 }
+
 #loginForm{
     margin-top: 20%;
 }
 
 a.forgot {
-
     padding-right: 10%;
     margin-top: 5%;
     font-size: small;
@@ -89,27 +96,26 @@ a.forgot {
     border-left: 6px solid #c4c2c3;
     height: 80%;
     margin-left: 50%;
-    margin-top: 5%;
+    margin-top: -55%;
     position: absolute;
 }
 
 .selectbar{
-  border-right: none;
-border-left: none;
-border-top: none;
-text-align:center;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    text-align:center;
     width: 80%;
     background-color: transparent;
     margin-top: 5%;
 }
 
 #email_form_s{
-  border-right: none;
-border-left: none;
-border-top: none;
-text-align:center;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    text-align:center;
     width: 80%;
     background-color: transparent;
     margin-top: 5%;
-
 }
